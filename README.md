@@ -1,10 +1,15 @@
 Các biến trong tập dữ liệu sử dụng để dự đoán gồm:
 
 Date: Ngày quan sát
+
 Location: Vị trí quan sát
+
 MinTemp: Giá trị nhiệt độ thấp nhất (celcius)
+
 MaxTemp: Giá trị nhiệt độ cao nhất (celcius)
+
 Rainfall: Lượng mưa ghi nhận trong ngày (mm) 
+
 Evaporation:  Độ bay hơi (mm) (*)
 Sunshine: Thời gian trời nắng trong ngày (hours) (*)
 WindGustDir: Hướng gió giật mạnh nhất (*)
